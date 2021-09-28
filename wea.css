@@ -1,0 +1,53 @@
+h2{
+    font-size: 60px;
+
+    margin: auto;
+    padding-right: 12pt;
+
+
+    color:red;
+    align-items: left;
+    position: absolute;
+    outline: none;
+    border-bottom: 1px solid red;
+    text-shadow: 4px 6px  rgb(109, 14, 14);
+}
+body{
+    position: relative;
+    display: flex;
+    
+    justify-content: center;
+    width: 100vw;
+    height: 100vw;
+    background-image: url(YOU.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    
+}
+
+
+p{
+    max-width: 20pc;
+    color: darkblue;
+
+}
+div{
+    text-align: center;
+  position:fixed ;
+  bottom: 0;
+  right: 20;
+  background-color: black;
+  color: black;
+  margin: auto;
+  border-width: 500px 200px;
+  width: 80% 50%;
+  font-size: 18px;
+  
+  
+  
+ 
+     text-align: center;
+     width: 8cm;
+     color: rgb(109, 14, 14);
+}
